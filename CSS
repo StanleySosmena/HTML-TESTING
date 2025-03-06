@@ -1,0 +1,36 @@
+body{
+  padding: 25px;
+  margin: 0;
+}
+.title {
+	color: #5C6AC4;
+}
+.Menubar li{
+  float: left;
+  text-align: center;
+  padding: 20px;
+  display: inline-block;
+  margin: 0 10px 0 0;
+  background-color:	white;
+  border-radius: 14px ;
+  border: solid black 3px;
+}
+Navbar a:hover{
+  color: blue;
+}
+.Topbar {
+  list-style-type:none
+  padding: 0;
+}
+.Menubar li:hover{
+  background-color: 	#add8e6;
+  border: none;
+  font-size: 50px;
+  animation-delay: 3s;
+}
+.Topbar a{
+  color: black;
+  font-family: Arial;
+  list-style-type:none;
+  font-size: 15px;
+}
